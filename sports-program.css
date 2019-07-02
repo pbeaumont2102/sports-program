@@ -1,17 +1,13 @@
-<html>
-<head>
-<title>sports program</title>
-<style type+"text/css">
-p	{
+
+
+h1	{
 font-size: 16pt;
-font-family: comic sans, verdana, sans-serif;
-color #cc0000
+font-family: verdana;
+color: #FF0000;
 	}
-</style>
-</head>
-<body>
-<h1>welcome to our sports program<h1/>
-<div>
-<p>This is our absolutely peng football table that we've made all on our own, absolutely without the help of man like ilya. Philippe is also stupid af.</p>
-</body>
-</html>
+
+p	{
+font-size: 12pt;
+font-family:verdana;
+color: #FF6900;
+	}
